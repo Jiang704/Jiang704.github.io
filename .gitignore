@@ -1,7 +1,9 @@
-archive
-node_modules
-.idea
+# project
+_site
 .sass-cache
-.git
+.vagrant
+
+# general
 .DS_Store
-Blog.xcworkspace
+Thumbs.db
+ehthumbs.db
