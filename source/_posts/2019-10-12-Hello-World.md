@@ -6,4 +6,4 @@ tags: [daily]
 date-string: October 12, 2019
 ---
 
-Hello world!
+Hello world!~
