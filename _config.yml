@@ -19,7 +19,7 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
+  disqus: Jiang
   # duoshuo: kongsong
   # youyan: 2122392
   laibili: MTAyMC8yODgzNC81NDA0
@@ -31,17 +31,17 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 # Author information:
 author:
   #resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  name: Jiang     #the name of Blog section
+  about_me: 24岁不到，是学生
  
 # Social Links
-email:               hi@kongsong.me
+email:               572462331@qq.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+#facebook:            kongsong
+github:              Jiang704
+#stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:           kongsong
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -67,4 +67,4 @@ plugins:
   - jekyll-gist
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile,.sass-cache,.DS_Store,.idea]
+exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, LICENSE, Rakefile,.sass-cache,.DS_Store,.idea]
