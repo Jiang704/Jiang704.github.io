@@ -1,23 +1,5 @@
-# Leap Day
+# materialized_jekyll_theme
 
-Open source content for Leap Day theme. Theme was first designed / developed for GitHub Pages and is availalbe for download, forking and using anywhere else on the web.
+As the title suggests, this repo is for a [jekyll theme](http://jekyllrb.com) that's based on Material design. It uses [Matarialize.css](http://materializecss.com) to implement its material goodness.
 
-![Leap Day](http://cl.ly/image/2Z1Z1e2q2I1C/image)
-
-**Note** If you are an original Leap Day user (pre August 2014) the [1.0 tag](https://github.com/mattgraham/leapday/releases/tag/1.0) is what you are on.
-
-The Leap Day Pages demo is [here](http://mattgraham.github.com/leapday)
-
-
-### Developing Locally
-
-```
-script/server
-```
-
-Running `script/server` will run `jekyll serve && compass --watch` commands via terminal. You will be able to open http://localhost:4000 and make changes to any of the, md, .html or .scss files and compass will compile them for you. Simply refresh your browser (or use something like livereload) and develop away. Most of the colors and sizing is found in the _variables.scss file.
-
-
-### Credits
-
-Leap-Day Theme is by [Matt Graham](http://madebygraham.com), twitter [@mattgraham](http://twitter.com/#!/mattgraham). Use, reuse and modify away.
+If you want to see the theme in action, check out [our website](http://www.enterthecrucible.co). Its is based off of this theme.
