@@ -1,5 +1,7 @@
-# materialized_jekyll_theme
+# Blog of Song Kong
+This is a Jekyll theme called Ice bear.
 
-As the title suggests, this repo is for a [jekyll theme](http://jekyllrb.com) that's based on Material design. It uses [Matarialize.css](http://materializecss.com) to implement its material goodness.
+To learn how to install and use this theme, please check out the [installation guide](http://kongsong.me/blog/ice-bear-jekyll-theme/) for more information.
 
-If you want to see the theme in action, check out [our website](http://www.enterthecrucible.co). Its is based off of this theme.
+## License
+This theme is open source under MIT License. So feel free to use this Jekyll theme on your site, although linking back to me is more than welcomed.
