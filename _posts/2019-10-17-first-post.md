@@ -2,7 +2,7 @@
 layout: post
 title: Flink环境搭载流程及一些问题
 subtitle: Flink萌新
-image: /img/hello_world.jpeg
+image: /img/hello_world.jpg
 ---
 
 ​	萌新第一次接触Flink架构，尝试搭载并总结一些搭载中遇到的问题。
