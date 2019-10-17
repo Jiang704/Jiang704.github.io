@@ -25,11 +25,11 @@ image: /img/hello_world.jpeg
 
 ​	编译代码的过程遇到许多ERROR（卡了2天多），最后发现是我没有声明版本，Flink默认编译最新的1.9版本，导致很多新增的插件如frontend-maven-plugin无法安装。
 
-```
-<img src="<img src="divcss5-logo-201305.gif" width="165" height="60" /> " width="165" height="60" /> 
-```
-
-
+<center>
+    <div class="photoset-grid-custom" data-layout="213">
+        <img src="/img/20191015154331.png">
+    </div>
+</center>
 
 ​	最后进入Flink文件夹下的.github文件夹里打开终端，输入
 
